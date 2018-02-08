@@ -1,0 +1,41 @@
+{
+"configs" : [
+  {
+"server" : "119.28.16.83",
+"server_port" : 8389,
+"password" : "123456789",
+"method" : "rc4-md5",
+"remarks" : "翻墙"}
+,
+  {
+"server" : "104.128.94.15",
+"server_port" : 8411,
+"password" : "123456789",
+"method" : "rc4-md5",
+"remarks" : "帮瓦工"}
+,
+  {
+"server" : "45.62.116.134",
+"server_port" : 443,
+"password" : "NTkyYTJiYT",
+"method" : "aes-256-cfb",
+"remarks" : "tizi"}
+,
+  {
+"server" : "119.28.16.83",
+"server_port" : 8389,
+"password" : "123456789",
+"method" : "rc4-md5",
+"remarks" : ""}
+
+],
+"strategy" : null,
+"index" : 0,
+"global" : false,
+"enabled" : true,
+"shareOverLan" : false,
+"isDefault" : false,
+"localPort" : 1080,
+"pacUrl" : null,
+"useOnlinePac" : false,
+"availabilityStatistics" : false}
